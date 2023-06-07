@@ -23,5 +23,7 @@ public class LancioDadi {
 		partita.esito(persona_1, persona_2);
 		
 		scanner.close();
+		
+		System.out.println("ciao git");
 	}
 }
