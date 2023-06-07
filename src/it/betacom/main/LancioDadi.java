@@ -24,6 +24,6 @@ public class LancioDadi {
 		
 		scanner.close();
 		
-		System.out.println("ciao git");
+		System.out.println("ciao git ueue");
 	}
 }
